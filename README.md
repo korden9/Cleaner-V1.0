@@ -9,9 +9,9 @@ Program napisany w C++, który usuwa pliki cache (%temp%), skanuje dysk i wykonu
 
 ## Uruchomienie
 1. Zbuduj projekt
-2. Przygotuj plik `config.json` według potrzeb
-3. Uruchom `Cleaner V1.0.exe` w folderze Release
+2. Przenieś plik `config.json` do folderu release 
+3. Przygotuj plik `config.json` według potrzeb
+4. Uruchom `Cleaner V1.0.exe` w folderze Release
 
 ## Autor
 Konrad O.
-

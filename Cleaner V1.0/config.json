@@ -1,0 +1,6 @@
+{
+    "check_disc" : true,
+    "clear_cache" : true,
+    "virus_scan" : true,
+    "virus_scan_level" : 1
+} 
